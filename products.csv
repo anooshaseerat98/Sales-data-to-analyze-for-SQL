@@ -1,0 +1,16 @@
+product_id,product_name,category,price_per_unit,brand
+1,Butter,Dairy,28.58,B
+2,Apple,Fruit,8.48,E
+3,Chicken,Meat,2.7,A
+4,Mango,Fruit,18.95,E
+5,Pasta,Grain,17.94,C
+6,Eggs,Dairy,26.72,A
+7,Orange,Fruit,10,E
+8,Cheese,Dairy,26.52,A
+9,Bread,Dairy,14.25,B
+10,Strawberry,Fruit,15,B
+11,Milk,Dairy,26.52,E
+12,Kiwi,Fruit,30,E
+13,Banana,Fruit,26.12,B
+14,Rice,Grain,21.94,D
+15,Watermelon,Fruit,25,E
